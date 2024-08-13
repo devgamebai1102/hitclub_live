@@ -1,0 +1,27 @@
+
+01_ani.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 128, 14
+  size: 144, 129
+  orig: 144, 129
+  offset: 0, 0
+  index: -1
+boder
+  rotate: false
+  xy: 128, 143
+  size: 148, 133
+  orig: 148, 133
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 0, 109
+  size: 128, 167
+  orig: 128, 167
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b1198836-d91b-4bb3-840e-3fb449d04dbd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 63,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "icoLichSuCuocOn": {
+      "ver": "1.0.4",
+      "uuid": "34ffc5fb-9965-4fd5-9e00-ff5dbb462ced",
+      "rawTextureUuid": "b1198836-d91b-4bb3-840e-3fb449d04dbd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 63,
+      "height": 64,
+      "rawWidth": 63,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+nho_slot.png
+size: 105,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hlfx3
+  rotate: false
+  xy: 1, 1
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+kim cuong
+  rotate: false
+  xy: 1, 30
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1

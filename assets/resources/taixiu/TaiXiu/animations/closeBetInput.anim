@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "closeBetInput",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2833333333333333,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": "36",
+  "curveData": {
+    "paths": {
+      "bg-input": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 1.1
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "closeBetInputEvent",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "753f1c94-210f-44a1-a939-b3b970996017",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 134,
+  "height": 132,
+  "platformSettings": {},
+  "subMetas": {
+    "Anim_XiNgau_Chat": {
+      "ver": "1.0.4",
+      "uuid": "f51b14a2-3250-4483-8315-013d48ad2cb2",
+      "rawTextureUuid": "753f1c94-210f-44a1-a939-b3b970996017",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 130,
+      "height": 128,
+      "rawWidth": 134,
+      "rawHeight": 132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

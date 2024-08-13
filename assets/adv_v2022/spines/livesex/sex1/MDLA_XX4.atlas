@@ -1,0 +1,279 @@
+
+MDLA_XX4.png
+size: 930,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy_body
+  rotate: false
+  xy: 137, 302
+  size: 118, 233
+  orig: 118, 233
+  offset: 0, 0
+  index: -1
+boy_chansau
+  rotate: true
+  xy: 437, 121
+  size: 194, 98
+  orig: 194, 98
+  offset: 0, 0
+  index: -1
+boy_chantruoc
+  rotate: false
+  xy: 550, 434
+  size: 207, 101
+  orig: 207, 101
+  offset: 0, 0
+  index: -1
+boy_ciu
+  rotate: true
+  xy: 628, 2
+  size: 86, 34
+  orig: 86, 34
+  offset: 0, 0
+  index: -1
+boy_duisau
+  rotate: true
+  xy: 758, 335
+  size: 74, 170
+  orig: 74, 170
+  offset: 0, 0
+  index: -1
+boy_duitruoc
+  rotate: false
+  xy: 137, 70
+  size: 101, 230
+  orig: 101, 230
+  offset: 0, 0
+  index: -1
+boy_head
+  rotate: false
+  xy: 343, 2
+  size: 100, 112
+  orig: 100, 112
+  offset: 0, 0
+  index: -1
+boy_octruoc1
+  rotate: true
+  xy: 711, 3
+  size: 18, 56
+  orig: 18, 56
+  offset: 0, 0
+  index: -1
+boy_taysau
+  rotate: true
+  xy: 388, 317
+  size: 48, 151
+  orig: 48, 151
+  offset: 0, 0
+  index: -1
+boy_taytruoc
+  rotate: false
+  xy: 2, 255
+  size: 133, 280
+  orig: 133, 280
+  offset: 0, 0
+  index: -1
+boy_tocsau
+  rotate: false
+  xy: 854, 68
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+boy_toctruoc2
+  rotate: false
+  xy: 817, 38
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+g2_body
+  rotate: false
+  xy: 2, 4
+  size: 133, 249
+  orig: 133, 249
+  offset: 0, 0
+  index: -1
+g2_head
+  rotate: false
+  xy: 525, 10
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+g2_tay
+  rotate: true
+  xy: 698, 137
+  size: 41, 140
+  orig: 41, 140
+  offset: 0, 0
+  index: -1
+g2_tay2
+  rotate: false
+  xy: 664, 5
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+g2_tocsau
+  rotate: true
+  xy: 854, 39
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+g3_body
+  rotate: true
+  xy: 537, 131
+  size: 128, 159
+  orig: 128, 159
+  offset: 0, 0
+  index: -1
+g3_chansau
+  rotate: false
+  xy: 240, 69
+  size: 49, 231
+  orig: 49, 231
+  offset: 0, 0
+  index: -1
+g3_chantruoc
+  rotate: false
+  xy: 291, 59
+  size: 50, 256
+  orig: 50, 256
+  offset: 0, 0
+  index: -1
+g3_duisau
+  rotate: true
+  xy: 541, 261
+  size: 74, 171
+  orig: 74, 171
+  offset: 0, 0
+  index: -1
+g3_duitruoc
+  rotate: true
+  xy: 550, 337
+  size: 95, 206
+  orig: 95, 206
+  offset: 0, 0
+  index: -1
+g3_face
+  rotate: false
+  xy: 855, 234
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+g3_taysau
+  rotate: true
+  xy: 706, 104
+  size: 31, 123
+  orig: 31, 123
+  offset: 0, 0
+  index: -1
+g3_toc1
+  rotate: true
+  xy: 711, 23
+  size: 33, 104
+  orig: 33, 104
+  offset: 0, 0
+  index: -1
+g3_tocsau
+  rotate: true
+  xy: 714, 259
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+g3_toctruoc1
+  rotate: true
+  xy: 840, 113
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+g3_toctruoc2
+  rotate: true
+  xy: 827, 189
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 388, 367
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+nau_body
+  rotate: false
+  xy: 257, 317
+  size: 129, 218
+  orig: 129, 218
+  offset: 0, 0
+  index: -1
+nau_chansau
+  rotate: true
+  xy: 698, 180
+  size: 77, 127
+  orig: 77, 127
+  offset: 0, 0
+  index: -1
+nau_chantruoc1
+  rotate: true
+  xy: 343, 116
+  size: 199, 92
+  orig: 199, 92
+  offset: 0, 0
+  index: -1
+nau_head
+  rotate: false
+  xy: 445, 8
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1
+nau_nguc
+  rotate: true
+  xy: 215, 14
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+nau_taytruoc
+  rotate: false
+  xy: 759, 411
+  size: 169, 124
+  orig: 169, 124
+  offset: 0, 0
+  index: -1
+nau_tocsau2
+  rotate: false
+  xy: 711, 58
+  size: 104, 44
+  orig: 104, 44
+  offset: 0, 0
+  index: -1
+nau_toctruoc1
+  rotate: true
+  xy: 137, 9
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+nau_toctruoc2
+  rotate: true
+  xy: 840, 150
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 537, 90
+  size: 167, 39
+  orig: 167, 39
+  offset: 0, 0
+  index: -1

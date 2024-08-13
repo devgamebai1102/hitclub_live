@@ -1,0 +1,62 @@
+
+x10_ani.png
+size: 439,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X1
+  rotate: false
+  xy: 368, 9
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+X10
+  rotate: false
+  xy: 368, 30
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+X2
+  rotate: false
+  xy: 411, 52
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+X3
+  rotate: false
+  xy: 397, 9
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+X4
+  rotate: false
+  xy: 411, 73
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+X5
+  rotate: false
+  xy: 409, 30
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+ngoc_on
+  rotate: false
+  xy: 368, 51
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+x10_bg
+  rotate: true
+  xy: 0, 0
+  size: 92, 366
+  orig: 92, 366
+  offset: 0, 0
+  index: -1

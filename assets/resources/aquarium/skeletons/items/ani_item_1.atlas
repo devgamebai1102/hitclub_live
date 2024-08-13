@@ -1,0 +1,41 @@
+
+ani_item_1.png
+size: 368,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item_1T1
+  rotate: false
+  xy: 273, 6
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+item_1T2
+  rotate: false
+  xy: 273, 65
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+item_1bd
+  rotate: false
+  xy: 155, 10
+  size: 117, 131
+  orig: 117, 131
+  offset: 0, 0
+  index: -1
+item_1bg
+  rotate: false
+  xy: 1, 1
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+item_1ec
+  rotate: true
+  xy: 325, 70
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1

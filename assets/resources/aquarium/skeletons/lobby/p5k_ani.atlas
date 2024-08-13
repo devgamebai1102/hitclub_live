@@ -1,0 +1,27 @@
+
+p5k_ani.png
+size: 999,999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light3
+  rotate: true
+  xy: 566, 67
+  size: 364, 275
+  orig: 364, 275
+  offset: 0, 0
+  index: -1
+lignt02
+  rotate: false
+  xy: 2, 2
+  size: 562, 429
+  orig: 562, 429
+  offset: 0, 0
+  index: -1
+p_3
+  rotate: false
+  xy: 2, 433
+  size: 865, 564
+  orig: 865, 564
+  offset: 0, 0
+  index: -1

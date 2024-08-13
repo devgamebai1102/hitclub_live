@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "905c9b70-9832-44cd-aaf4-0c574702fc2c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Icon-RongHo": {
+      "ver": "1.0.4",
+      "uuid": "41c4a493-ef0c-455f-b77e-326296d573bb",
+      "rawTextureUuid": "905c9b70-9832-44cd-aaf4-0c574702fc2c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 1015,
+      "height": 506,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

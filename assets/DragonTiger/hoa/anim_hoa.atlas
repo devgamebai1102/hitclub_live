@@ -1,0 +1,27 @@
+
+anim_hoa.png
+size: 355, 238
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Hoa
+  rotate: false
+  xy: 197, 2
+  size: 140, 81
+  orig: 140, 81
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 197, 85
+  size: 156, 151
+  orig: 156, 151
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 2, 34
+  size: 202, 193
+  orig: 202, 193
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ani_nohu.png
+size: 1469,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TL_s
+  rotate: false
+  xy: 388, 12
+  size: 651, 155
+  orig: 651, 155
+  offset: 0, 0
+  index: -1
+bg_Thag
+  rotate: false
+  xy: 388, 168
+  size: 738, 138
+  orig: 738, 138
+  offset: 0, 0
+  index: -1
+nh_ca
+  rotate: true
+  xy: 1, 1
+  size: 305, 386
+  orig: 305, 386
+  offset: 0, 0
+  index: -1
+nh_ca1
+  rotate: false
+  xy: 1127, 207
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+nh_text
+  rotate: false
+  xy: 1040, 22
+  size: 428, 145
+  orig: 428, 145
+  offset: 0, 0
+  index: -1

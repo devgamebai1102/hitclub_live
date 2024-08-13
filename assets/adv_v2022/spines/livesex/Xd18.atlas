@@ -1,0 +1,90 @@
+
+Xd18.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XD 1
+  rotate: false
+  xy: 286, 1
+  size: 283, 273
+  orig: 283, 273
+  offset: 0, 0
+  index: -1
+XD 2
+  rotate: false
+  xy: 1, 435
+  size: 283, 348
+  orig: 283, 348
+  offset: 0, 0
+  index: -1
+XD 3
+  rotate: false
+  xy: 1, 785
+  size: 283, 216
+  orig: 283, 216
+  offset: 0, 0
+  index: -1
+viền live
+  rotate: false
+  xy: 1, 1
+  size: 283, 432
+  orig: 283, 432
+  offset: 0, 0
+  index: -1
+XD 6
+  rotate: false
+  xy: 856, 1
+  size: 136, 82
+  orig: 136, 82
+  offset: 0, 0
+  index: -1
+XD 4
+  rotate: false
+  xy: 965, 85
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+XD 8
+  rotate: false
+  xy: 965, 117
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+XD 7
+  rotate: false
+  xy: 856, 85
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+XD 5
+  rotate: false
+  xy: 571, 219
+  size: 229, 121
+  orig: 229, 121
+  offset: 0, 0
+  index: -1
+TIM
+  rotate: false
+  xy: 571, 1
+  size: 283, 216
+  orig: 283, 216
+  offset: 0, 0
+  index: -1
+Ư
+  rotate: false
+  xy: 921, 179
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 856, 179
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "73e1246d-abd3-4363-8e6e-beacd22f3325",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 749,
+  "height": 319,
+  "platformSettings": {},
+  "subMetas": {
+    "BONNUS": {
+      "ver": "1.0.4",
+      "uuid": "7e4c45b4-a27d-487b-a641-5cbe4c4ed68f",
+      "rawTextureUuid": "73e1246d-abd3-4363-8e6e-beacd22f3325",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -0.5,
+      "trimX": 4,
+      "trimY": 1,
+      "width": 745,
+      "height": 318,
+      "rawWidth": 749,
+      "rawHeight": 319,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

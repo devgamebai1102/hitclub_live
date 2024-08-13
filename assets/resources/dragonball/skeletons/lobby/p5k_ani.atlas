@@ -1,0 +1,13 @@
+
+p5k_ani.png
+size: 522,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_p5k
+  rotate: false
+  xy: 2, 2
+  size: 518, 524
+  orig: 518, 524
+  offset: 0, 0
+  index: -1

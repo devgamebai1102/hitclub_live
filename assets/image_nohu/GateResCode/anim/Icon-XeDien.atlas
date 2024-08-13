@@ -1,0 +1,55 @@
+
+Icon-XeDien.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon Cong/5-Xe Dien/images/1
+  rotate: false
+  xy: 2, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+Icon Cong/5-Xe Dien/images/2
+  rotate: true
+  xy: 403, 10
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+Icon Cong/5-Xe Dien/images/3
+  rotate: false
+  xy: 438, 53
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Icon Cong/5-Xe Dien/images/4
+  rotate: false
+  xy: 438, 9
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Icon Cong/5-Xe Dien/images/5
+  rotate: true
+  xy: 430, 97
+  size: 127, 67
+  orig: 127, 67
+  offset: 0, 0
+  index: -1
+Icon Cong/5-Xe Dien/images/6
+  rotate: false
+  xy: 226, 4
+  size: 175, 68
+  orig: 175, 68
+  offset: 0, 0
+  index: -1
+Icon Cong/5-Xe Dien/images/7
+  rotate: false
+  xy: 226, 74
+  size: 202, 150
+  orig: 202, 150
+  offset: 0, 0
+  index: -1

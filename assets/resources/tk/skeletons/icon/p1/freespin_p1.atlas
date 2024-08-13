@@ -1,0 +1,41 @@
+
+freespin_p1.png
+size: 267,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 0, 0
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+item_frs1
+  rotate: true
+  xy: 142, 111
+  size: 110, 117
+  orig: 110, 117
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 141, 83
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+sheld
+  rotate: false
+  xy: 0, 133
+  size: 142, 134
+  orig: 142, 134
+  offset: 0, 0
+  index: -1
+text_frs
+  rotate: false
+  xy: 142, 221
+  size: 118, 46
+  orig: 118, 46
+  offset: 0, 0
+  index: -1

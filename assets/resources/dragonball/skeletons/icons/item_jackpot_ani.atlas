@@ -1,0 +1,34 @@
+
+item_jackpot_ani.png
+size: 498,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jp_7n
+  rotate: true
+  xy: 402, 72
+  size: 104, 94
+  orig: 104, 94
+  offset: 0, 0
+  index: -1
+jp_fx
+  rotate: false
+  xy: 2, 2
+  size: 257, 174
+  orig: 257, 174
+  offset: 0, 0
+  index: -1
+jp_n
+  rotate: false
+  xy: 261, 35
+  size: 139, 141
+  orig: 139, 141
+  offset: 0, 0
+  index: -1
+jp_text
+  rotate: false
+  xy: 261, 4
+  size: 139, 29
+  orig: 139, 29
+  offset: 0, 0
+  index: -1

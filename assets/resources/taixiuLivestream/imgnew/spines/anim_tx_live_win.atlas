@@ -1,0 +1,41 @@
+
+anim_tx_live_win.png
+size: 736,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TAI
+  rotate: false
+  xy: 579, 8
+  size: 142, 104
+  orig: 151, 111
+  offset: 5, 7
+  index: -1
+XIU
+  rotate: false
+  xy: 579, 459
+  size: 155, 113
+  orig: 161, 120
+  offset: 5, 7
+  index: -1
+as
+  rotate: true
+  xy: 2, 2
+  size: 570, 575
+  orig: 573, 577
+  offset: 2, 1
+  index: -1
+as copy
+  rotate: false
+  xy: 579, 243
+  size: 154, 214
+  orig: 155, 214
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 579, 114
+  size: 120, 127
+  orig: 152, 152
+  offset: 17, 17
+  index: -1

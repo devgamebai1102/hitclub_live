@@ -1,0 +1,76 @@
+
+dealerB.png
+size: 224,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 80, 114
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+btay_p
+  rotate: false
+  xy: 177, 146
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+btay_t
+  rotate: false
+  xy: 177, 69
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1, 108
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+ktay_p
+  rotate: false
+  xy: 1, 73
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+ktay_t
+  rotate: false
+  xy: 1, 33
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+tayT1
+  rotate: false
+  xy: 1, 4
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+tayT2
+  rotate: false
+  xy: 131, 79
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+tayp
+  rotate: false
+  xy: 45, 1
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 80, 63
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+item_bonus_ani.png
+size: 170,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus
+  rotate: false
+  xy: 2, 24
+  size: 137, 110
+  orig: 137, 110
+  offset: 0, 0
+  index: -1
+bonus_t
+  rotate: true
+  xy: 141, 2
+  size: 132, 27
+  orig: 132, 27
+  offset: 0, 0
+  index: -1

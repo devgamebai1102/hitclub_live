@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "73da662c-b629-432f-ad87-338219434bab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 202,
+  "height": 165,
+  "platformSettings": {},
+  "subMetas": {
+    "khung dat chip cuoc1": {
+      "ver": "1.0.4",
+      "uuid": "42dd28b0-28c1-4ced-9901-45074cb15ebd",
+      "rawTextureUuid": "73da662c-b629-432f-ad87-338219434bab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 202,
+      "height": 164,
+      "rawWidth": 202,
+      "rawHeight": 165,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

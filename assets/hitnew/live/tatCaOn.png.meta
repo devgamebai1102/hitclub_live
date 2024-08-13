@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a4fa2c14-2090-493b-9866-e44b4db375f5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 204,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "tatCaOn": {
+      "ver": "1.0.4",
+      "uuid": "5d34e74d-e699-4c08-919f-a01b56577382",
+      "rawTextureUuid": "a4fa2c14-2090-493b-9866-e44b4db375f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 99,
+      "rawWidth": 204,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

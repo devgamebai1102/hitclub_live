@@ -1,0 +1,84 @@
+{
+"skeleton": { "hash": "hAXX/JUEBvCP6xFO0GFktfmlXTw", "spine": "3.7.94", "width": 756, "height": 195.57, "images": "./images/", "audio": "E:/Ktek/Bau-Cua/Anim/Demo-Win" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "01", "parent": "root", "x": -0.3, "y": -0.1 },
+	{ "name": "light", "parent": "01", "x": -1.63, "y": 61.51, "scaleX": 1.35, "scaleY": 1.355 },
+	{ "name": "light2", "parent": "01", "x": -1.63, "y": -59.68, "scaleX": 1.35, "scaleY": 1.35 }
+],
+"slots": [
+	{ "name": "01", "bone": "01", "attachment": "01" },
+	{ "name": "light", "bone": "light", "attachment": "light", "blend": "additive" },
+	{ "name": "light2", "bone": "light2", "attachment": "light", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"01": {
+			"01": { "x": 6.03, "y": 0.85, "width": 756, "height": 153 }
+		},
+		"light": {
+			"light": { "path": "Layer 1", "x": 0.67, "y": -0.33, "width": 289, "height": 55 }
+		},
+		"light2": {
+			"light": { "path": "Layer 1", "x": 0.67, "y": -0.33, "width": 289, "height": 55 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"01": {
+				"color": [
+					{ "time": 2, "color": "ffffffff" }
+				]
+			},
+			"light": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.6333, "color": "ffffff00" }
+				]
+			},
+			"light2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.6333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"light": {
+				"translate": [
+					{ "time": 0.0333, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 212.79, "y": 0 },
+					{ "time": 0.6, "x": -205.49, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.6, "x": 0, "y": 0 }
+				]
+			},
+			"light2": {
+				"translate": [
+					{ "time": 0.0333, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -201.39, "y": 0 },
+					{ "time": 0.6, "x": 208.69, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.6, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

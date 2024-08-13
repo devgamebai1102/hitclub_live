@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8377818f-0457-4bab-aacd-2205702e4954",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 289,
+  "height": 439,
+  "platformSettings": {},
+  "subMetas": {
+    "khunglogogame": {
+      "ver": "1.0.4",
+      "uuid": "632ec9f3-c46e-4d68-aff0-d4c6d9b73d58",
+      "rawTextureUuid": "8377818f-0457-4bab-aacd-2205702e4954",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 287,
+      "height": 436,
+      "rawWidth": 289,
+      "rawHeight": 439,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1e18f7a7-fecd-4f13-879a-58f808fbcc20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 210,
+  "height": 219,
+  "platformSettings": {},
+  "subMetas": {
+    "minipokergo": {
+      "ver": "1.0.4",
+      "uuid": "2065a352-26ba-4006-a997-1aac59e63353",
+      "rawTextureUuid": "1e18f7a7-fecd-4f13-879a-58f808fbcc20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 210,
+      "height": 219,
+      "rawWidth": 210,
+      "rawHeight": 219,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

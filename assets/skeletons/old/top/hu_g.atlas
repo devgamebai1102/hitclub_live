@@ -1,0 +1,48 @@
+
+hu_g.png
+size: 169,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 0, 104
+  size: 123, 65
+  orig: 123, 65
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 0, 10
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 86, 64
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 126, 22
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 86, 19
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+und
+  rotate: true
+  xy: 123, 62
+  size: 107, 45
+  orig: 107, 45
+  offset: 0, 0
+  index: -1

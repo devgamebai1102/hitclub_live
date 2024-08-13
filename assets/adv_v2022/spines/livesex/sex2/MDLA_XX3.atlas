@@ -1,0 +1,181 @@
+
+MDLA_XX3.png
+size: 992,747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ManPhong
+  rotate: false
+  xy: 421, 269
+  size: 264, 120
+  orig: 264, 120
+  offset: 0, 0
+  index: -1
+Nam_body
+  rotate: false
+  xy: 2, 552
+  size: 861, 193
+  orig: 861, 193
+  offset: 0, 0
+  index: -1
+Nam_bodychantrong
+  rotate: false
+  xy: 2, 404
+  size: 472, 146
+  orig: 472, 146
+  offset: 0, 0
+  index: -1
+Nam_dau
+  rotate: true
+  xy: 865, 591
+  size: 154, 113
+  orig: 154, 113
+  offset: 0, 0
+  index: -1
+Nam_tay
+  rotate: true
+  xy: 421, 57
+  size: 77, 240
+  orig: 77, 240
+  offset: 0, 0
+  index: -1
+SuNuong_body
+  rotate: false
+  xy: 2, 2
+  size: 214, 400
+  orig: 214, 400
+  offset: 0, 0
+  index: -1
+SuNuong_channgoai
+  rotate: true
+  xy: 931, 296
+  size: 293, 59
+  orig: 293, 59
+  offset: 0, 0
+  index: -1
+SuNuong_chantrong
+  rotate: false
+  xy: 732, 361
+  size: 69, 189
+  orig: 69, 189
+  offset: 0, 0
+  index: -1
+SuNuong_dau
+  rotate: true
+  xy: 673, 147
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+SuNuong_nguctrong
+  rotate: false
+  xy: 730, 255
+  size: 69, 104
+  orig: 69, 104
+  offset: 0, 0
+  index: -1
+SuNuong_tayngoai
+  rotate: true
+  xy: 421, 136
+  size: 131, 250
+  orig: 131, 250
+  offset: 0, 0
+  index: -1
+SuNuong_taytrong
+  rotate: false
+  xy: 847, 31
+  size: 57, 230
+  orig: 57, 230
+  offset: 0, 0
+  index: -1
+SuNuong_tocmai
+  rotate: false
+  xy: 794, 130
+  size: 51, 123
+  orig: 51, 123
+  offset: 0, 0
+  index: -1
+TieuNguu_body
+  rotate: false
+  xy: 218, 21
+  size: 201, 381
+  orig: 201, 381
+  offset: 0, 0
+  index: -1
+TieuNguu_channgoai
+  rotate: true
+  xy: 803, 263
+  size: 287, 61
+  orig: 287, 61
+  offset: 0, 0
+  index: -1
+TieuNguu_chantrong
+  rotate: true
+  xy: 906, 120
+  size: 173, 65
+  orig: 173, 65
+  offset: 0, 0
+  index: -1
+TieuNguu_head
+  rotate: false
+  xy: 674, 39
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+TieuNguu_ruybang
+  rotate: true
+  xy: 816, 8
+  size: 21, 130
+  orig: 21, 130
+  offset: 0, 0
+  index: -1
+TieuNguu_tayngoai
+  rotate: false
+  xy: 866, 295
+  size: 63, 294
+  orig: 63, 294
+  offset: 0, 0
+  index: -1
+TieuNguu_taytrong
+  rotate: true
+  xy: 421, 5
+  size: 50, 196
+  orig: 50, 196
+  offset: 0, 0
+  index: -1
+TieuNguu_toccong
+  rotate: true
+  xy: 674, 4
+  size: 33, 140
+  orig: 33, 140
+  offset: 0, 0
+  index: -1
+TieuNguu_tocmai
+  rotate: false
+  xy: 906, 79
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+TieuNguu_tocsau
+  rotate: true
+  xy: 476, 391
+  size: 159, 254
+  orig: 159, 254
+  offset: 0, 0
+  index: -1
+TieuNguu_toctrong
+  rotate: false
+  xy: 687, 259
+  size: 41, 130
+  orig: 41, 130
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 619, 2
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

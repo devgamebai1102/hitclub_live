@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "openshowmd5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4444444444444444,
+  "sample": 45,
+  "speed": 0.5,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 250
+        },
+        {
+          "frame": 0.2222222222222222,
+          "value": 100
+        },
+        {
+          "frame": 0.4444444444444444,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

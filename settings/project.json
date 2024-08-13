@@ -1,0 +1,43 @@
+{
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "start-scene": "8cdac4fe-0617-4622-8714-3d2c4d79725c",
+  "last-module-event-record-time": 1723489110751,
+  "group-list": [
+    "default"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "3D Physics/Builtin",
+    "SafeArea",
+    "3D Physics/cannon.js",
+    "3D Particle"
+  ],
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  }
+}

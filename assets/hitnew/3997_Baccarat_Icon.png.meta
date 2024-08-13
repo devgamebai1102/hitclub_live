@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ca590ec6-0baf-4922-91d8-a29993d67d64",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 213,
+  "height": 223,
+  "platformSettings": {},
+  "subMetas": {
+    "3997_Baccarat_Icon": {
+      "ver": "1.0.4",
+      "uuid": "ac3b2f1b-3bf3-4b31-88bf-5fe9679c78d6",
+      "rawTextureUuid": "ca590ec6-0baf-4922-91d8-a29993d67d64",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 213,
+      "height": 223,
+      "rawWidth": 213,
+      "rawHeight": 223,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+item_07_ani.png
+size: 106,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon07
+  rotate: true
+  xy: 2, 52
+  size: 133, 102
+  orig: 133, 102
+  offset: 0, 0
+  index: -1
+icon07_k
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

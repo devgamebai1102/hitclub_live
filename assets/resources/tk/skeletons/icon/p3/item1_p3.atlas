@@ -1,0 +1,20 @@
+
+item1_p3.png
+size: 164,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item1_p3
+  rotate: false
+  xy: 0, 28
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 0, 0
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1

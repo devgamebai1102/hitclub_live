@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "773cc82e-dbfe-4942-9300-c00bbda68996",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 182,
+  "height": 207,
+  "platformSettings": {},
+  "subMetas": {
+    "boxtien_nohu_baucua1-export": {
+      "ver": "1.0.4",
+      "uuid": "8d8ac4a6-33b7-49da-8631-20759500a1e3",
+      "rawTextureUuid": "773cc82e-dbfe-4942-9300-c00bbda68996",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 181,
+      "height": 206,
+      "rawWidth": 182,
+      "rawHeight": 207,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

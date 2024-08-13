@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d0be35a5-6ec7-43a2-b4bb-7a16d73c91fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 242,
+  "height": 41,
+  "platformSettings": {},
+  "subMetas": {
+    "title_VinhDanh": {
+      "ver": "1.0.4",
+      "uuid": "6440def7-a60d-46f5-acd6-fd97f3d834da",
+      "rawTextureUuid": "d0be35a5-6ec7-43a2-b4bb-7a16d73c91fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 242,
+      "height": 41,
+      "rawWidth": 242,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

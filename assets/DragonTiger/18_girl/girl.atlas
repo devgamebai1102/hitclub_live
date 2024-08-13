@@ -1,0 +1,41 @@
+
+girl.png
+size: 349, 255
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+close_eyes
+  rotate: true
+  xy: 321, 183
+  size: 70, 26
+  orig: 70, 26
+  offset: 0, 0
+  index: -1
+earrings_l
+  rotate: false
+  xy: 321, 53
+  size: 11, 47
+  orig: 11, 47
+  offset: 0, 0
+  index: -1
+earrings_r
+  rotate: false
+  xy: 321, 135
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+girl
+  rotate: true
+  xy: 2, 2
+  size: 251, 317
+  orig: 251, 317
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 321, 102
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

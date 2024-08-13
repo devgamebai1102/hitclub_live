@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fcbf39e4-05eb-463c-a3db-752a8f7646f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1084,
+  "height": 549,
+  "platformSettings": {},
+  "subMetas": {
+    "The-Witcher-Season-2-elle-man-4": {
+      "ver": "1.0.4",
+      "uuid": "71279e64-e270-4c22-8a0a-57d13ac8123c",
+      "rawTextureUuid": "fcbf39e4-05eb-463c-a3db-752a8f7646f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1084,
+      "height": 549,
+      "rawWidth": 1084,
+      "rawHeight": 549,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

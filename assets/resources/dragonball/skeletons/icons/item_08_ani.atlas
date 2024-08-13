@@ -1,0 +1,13 @@
+
+item_08_ani.png
+size: 135,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon08
+  rotate: false
+  xy: 2, 2
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1

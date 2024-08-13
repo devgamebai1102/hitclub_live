@@ -1,0 +1,90 @@
+
+chimvsthuAnim.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 249
+  rotate: true
+  xy: 2, 146
+  size: 362, 561
+  orig: 362, 561
+  offset: 0, 0
+  index: -1
+VS
+  rotate: false
+  xy: 358, 66
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 2, 51
+  size: 354, 93
+  orig: 354, 93
+  offset: 0, 0
+  index: -1
+canhphai
+  rotate: false
+  xy: 2, 2
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+canhtrai
+  rotate: false
+  xy: 1512, 386
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+chim
+  rotate: false
+  xy: 886, 213
+  size: 127, 63
+  orig: 127, 63
+  offset: 0, 0
+  index: -1
+chim1
+  rotate: false
+  xy: 565, 152
+  size: 319, 356
+  orig: 319, 356
+  offset: 0, 0
+  index: -1
+do
+  rotate: false
+  xy: 886, 278
+  size: 312, 230
+  orig: 312, 230
+  offset: 0, 0
+  index: -1
+lonloi
+  rotate: true
+  xy: 1200, 305
+  size: 203, 310
+  orig: 203, 310
+  offset: 0, 0
+  index: -1
+thu
+  rotate: false
+  xy: 1512, 435
+  size: 112, 73
+  orig: 112, 73
+  offset: 0, 0
+  index: -1
+thuphai
+  rotate: false
+  xy: 886, 157
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+thutrai
+  rotate: false
+  xy: 1015, 222
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1

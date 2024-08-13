@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "161a5242-d8ab-4a79-bbb3-67f1b3e74a12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1195,
+  "height": 671,
+  "platformSettings": {},
+  "subMetas": {
+    "luatCHoiMiniPoker": {
+      "ver": "1.0.4",
+      "uuid": "423bf563-7a33-42b5-96ad-263476c9d8b5",
+      "rawTextureUuid": "161a5242-d8ab-4a79-bbb3-67f1b3e74a12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1195,
+      "height": 671,
+      "rawWidth": 1195,
+      "rawHeight": 671,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

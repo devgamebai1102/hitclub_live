@@ -1,0 +1,34 @@
+
+Sicbo_Btn_Copy.png
+size: 271,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COPY
+  rotate: false
+  xy: 204, 3
+  size: 59, 19
+  orig: 59, 19
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 200, 114
+  orig: 233, 129
+  offset: 19, 0
+  index: -1
+nen
+  rotate: true
+  xy: 238, 24
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+nen_light
+  rotate: true
+  xy: 204, 24
+  size: 92, 32
+  orig: 92, 32
+  offset: 0, 0
+  index: -1

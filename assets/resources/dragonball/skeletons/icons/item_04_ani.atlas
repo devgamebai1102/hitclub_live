@@ -1,0 +1,20 @@
+
+item_04_ani.png
+size: 257,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon04_bg
+  rotate: false
+  xy: 126, 8
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+icon04_nv
+  rotate: true
+  xy: 2, 2
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1

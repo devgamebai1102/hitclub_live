@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "814ac06d-126e-4076-8622-ff04d40af100",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 331,
+  "height": 109,
+  "platformSettings": {},
+  "subMetas": {
+    "Sukien-TrungHu_05": {
+      "ver": "1.0.4",
+      "uuid": "3f1ca6ea-cca8-4ec2-8e68-175a1d646f7f",
+      "rawTextureUuid": "814ac06d-126e-4076-8622-ff04d40af100",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 331,
+      "height": 109,
+      "rawWidth": 331,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0b1708b8-ff28-4a0e-acc6-ec4763010aee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 83,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "icoTaiAppQr": {
+      "ver": "1.0.4",
+      "uuid": "98ce326e-2c2c-4dbb-8d99-d86c3262e5f4",
+      "rawTextureUuid": "0b1708b8-ff28-4a0e-acc6-ec4763010aee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 88,
+      "rawWidth": 83,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

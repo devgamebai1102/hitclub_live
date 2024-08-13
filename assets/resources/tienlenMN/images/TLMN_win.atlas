@@ -1,0 +1,160 @@
+
+TLMN_win.png
+size: 634,634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3Thong
+  rotate: true
+  xy: 403, 293
+  size: 261, 90
+  orig: 261, 90
+  offset: 0, 0
+  index: -1
+3doiTh3b
+  rotate: false
+  xy: 1, 533
+  size: 333, 100
+  orig: 333, 100
+  offset: 0, 0
+  index: -1
+3heo
+  rotate: true
+  xy: 312, 266
+  size: 266, 90
+  orig: 266, 90
+  offset: 0, 0
+  index: -1
+4Thong
+  rotate: true
+  xy: 494, 293
+  size: 261, 106
+  orig: 261, 106
+  offset: 0, 0
+  index: -1
+5Thong
+  rotate: false
+  xy: 1, 174
+  size: 301, 49
+  orig: 301, 49
+  offset: 0, 0
+  index: -1
+6doi
+  rotate: false
+  xy: 443, 94
+  size: 126, 49
+  orig: 126, 49
+  offset: 0, 0
+  index: -1
+Srong
+  rotate: false
+  xy: 1, 115
+  size: 274, 58
+  orig: 274, 58
+  offset: 0, 0
+  index: -1
+Thang
+  rotate: false
+  xy: 272, 33
+  size: 161, 58
+  orig: 161, 58
+  offset: 0, 0
+  index: -1
+bg_Th
+  rotate: false
+  xy: 335, 555
+  size: 296, 78
+  orig: 296, 78
+  offset: 0, 0
+  index: -1
+bg_bt
+  rotate: false
+  xy: 312, 196
+  size: 261, 69
+  orig: 261, 69
+  offset: 0, 0
+  index: -1
+bich
+  rotate: false
+  xy: 544, 155
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 244, 31
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+cr
+  rotate: true
+  xy: 567, 1
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 1, 224
+  size: 310, 308
+  orig: 310, 308
+  offset: 0, 0
+  index: -1
+heo
+  rotate: true
+  xy: 574, 199
+  size: 93, 40
+  orig: 93, 40
+  offset: 0, 0
+  index: -1
+ken
+  rotate: false
+  xy: 443, 23
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+ro
+  rotate: false
+  xy: 276, 148
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+tep
+  rotate: false
+  xy: 601, 527
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+toiTrang
+  rotate: false
+  xy: 1, 4
+  size: 242, 58
+  orig: 242, 58
+  offset: 0, 0
+  index: -1
+tq2
+  rotate: false
+  xy: 1, 63
+  size: 270, 51
+  orig: 270, 51
+  offset: 0, 0
+  index: -1
+tq3
+  rotate: false
+  xy: 303, 144
+  size: 240, 51
+  orig: 240, 51
+  offset: 0, 0
+  index: -1
+tquy
+  rotate: false
+  xy: 276, 92
+  size: 166, 51
+  orig: 166, 51
+  offset: 0, 0
+  index: -1

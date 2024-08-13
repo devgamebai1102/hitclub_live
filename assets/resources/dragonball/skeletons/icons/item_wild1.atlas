@@ -1,0 +1,41 @@
+
+item_wild1.png
+size: 558,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef
+  rotate: false
+  xy: 2, 10
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+sheld
+  rotate: false
+  xy: 155, 22
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+wild_bg
+  rotate: false
+  xy: 298, 22
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+wild_nv
+  rotate: false
+  xy: 441, 40
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
+wild_t
+  rotate: false
+  xy: 441, 2
+  size: 97, 36
+  orig: 97, 36
+  offset: 0, 0
+  index: -1

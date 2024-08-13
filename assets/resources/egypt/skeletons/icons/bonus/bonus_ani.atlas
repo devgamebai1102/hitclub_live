@@ -1,0 +1,83 @@
+
+bonus_ani.png
+size: 379,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 116
+  size: 140, 129
+  orig: 140, 134
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 0, 245
+  size: 147, 134
+  orig: 147, 134
+  offset: 0, 0
+  index: -1
+sprite_01
+  rotate: false
+  xy: 0, 23
+  size: 111, 93
+  orig: 114, 96
+  offset: 2, 0
+  index: -1
+sprite_02
+  rotate: false
+  xy: 111, 22
+  size: 109, 94
+  orig: 114, 96
+  offset: 2, 0
+  index: -1
+sprite_03
+  rotate: false
+  xy: 269, 286
+  size: 110, 93
+  orig: 114, 96
+  offset: 2, 0
+  index: -1
+sprite_04
+  rotate: true
+  xy: 140, 136
+  size: 109, 92
+  orig: 114, 96
+  offset: 0, 2
+  index: -1
+sprite_05
+  rotate: false
+  xy: 258, 192
+  size: 110, 94
+  orig: 114, 96
+  offset: 2, 2
+  index: -1
+sprite_06
+  rotate: false
+  xy: 232, 97
+  size: 109, 95
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+sprite_07
+  rotate: false
+  xy: 147, 250
+  size: 111, 92
+  orig: 114, 94
+  offset: 1, 2
+  index: -1
+sprite_08
+  rotate: false
+  xy: 220, 7
+  size: 109, 90
+  orig: 114, 94
+  offset: 0, 4
+  index: -1
+text
+  rotate: false
+  xy: 147, 342
+  size: 122, 37
+  orig: 122, 37
+  offset: 0, 0
+  index: -1

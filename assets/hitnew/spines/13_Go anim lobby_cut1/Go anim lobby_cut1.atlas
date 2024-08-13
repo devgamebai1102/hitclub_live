@@ -1,0 +1,468 @@
+
+Go anim lobby_cut1.png
+size: 1812,1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chon game
+  rotate: true
+  xy: 1307, 1318
+  size: 216, 88
+  orig: 218, 94
+  offset: 1, 1
+  index: -1
+Chon game1
+  rotate: false
+  xy: 1399, 174
+  size: 216, 90
+  orig: 218, 94
+  offset: 1, 1
+  index: -1
+Chon game2
+  rotate: false
+  xy: 1399, 80
+  size: 216, 90
+  orig: 218, 94
+  offset: 1, 1
+  index: -1
+Chon game3
+  rotate: true
+  xy: 1279, 1098
+  size: 216, 88
+  orig: 218, 94
+  offset: 1, 1
+  index: -1
+Khongchon game effect
+  rotate: true
+  xy: 1730, 4
+  size: 125, 35
+  orig: 127, 37
+  offset: 1, 1
+  index: -1
+coin
+  rotate: false
+  xy: 1790, 422
+  size: 16, 23
+  orig: 18, 28
+  offset: 1, 4
+  index: -1
+coin khung
+  rotate: true
+  xy: 1307, 641
+  size: 258, 51
+  orig: 280, 55
+  offset: 21, 1
+  index: -1
+dang ky
+  rotate: false
+  xy: 1255, 46
+  size: 122, 38
+  orig: 125, 43
+  offset: 1, 4
+  index: -1
+dang nhap
+  rotate: true
+  xy: 1680, 11
+  size: 197, 46
+  orig: 201, 57
+  offset: 1, 10
+  index: -1
+dot
+  rotate: false
+  xy: 1790, 449
+  size: 20, 20
+  orig: 23, 23
+  offset: 1, 2
+  index: -1
+ef/f1
+  rotate: false
+  xy: 0, 838
+  size: 1164, 112
+  orig: 1442, 180
+  offset: 73, 51
+  index: -1
+ef/f10
+  rotate: false
+  xy: 0, 1208
+  size: 1275, 106
+  orig: 1442, 180
+  offset: 70, 51
+  index: -1
+ef/f11
+  rotate: false
+  xy: 0, 1421
+  size: 1303, 113
+  orig: 1442, 180
+  offset: 62, 51
+  index: -1
+ef/f12
+  rotate: true
+  xy: 1687, 473
+  size: 1338, 117
+  orig: 1442, 180
+  offset: 50, 51
+  index: -1
+ef/f13
+  rotate: false
+  xy: 0, 1538
+  size: 1361, 87
+  orig: 1442, 180
+  offset: 47, 51
+  index: -1
+ef/f14
+  rotate: false
+  xy: 0, 1629
+  size: 1381, 87
+  orig: 1442, 180
+  offset: 21, 51
+  index: -1
+ef/f15
+  rotate: false
+  xy: 0, 375
+  size: 1421, 92
+  orig: 1442, 180
+  offset: 19, 51
+  index: -1
+ef/f16
+  rotate: false
+  xy: 0, 471
+  size: 1438, 102
+  orig: 1442, 180
+  offset: 2, 51
+  index: -1
+ef/f2
+  rotate: false
+  xy: 0, 617
+  size: 1149, 113
+  orig: 1442, 180
+  offset: 63, 51
+  index: -1
+ef/f3
+  rotate: true
+  xy: 1399, 577
+  size: 1139, 115
+  orig: 1442, 180
+  offset: 69, 51
+  index: -1
+ef/f4
+  rotate: false
+  xy: 0, 734
+  size: 1079, 100
+  orig: 1442, 180
+  offset: 146, 51
+  index: -1
+ef/f5
+  rotate: false
+  xy: 0, 1100
+  size: 1097, 104
+  orig: 1442, 180
+  offset: 145, 51
+  index: -1
+ef/f6
+  rotate: false
+  xy: 0, 35
+  size: 1099, 109
+  orig: 1442, 180
+  offset: 146, 51
+  index: -1
+ef/f7
+  rotate: false
+  xy: 0, 148
+  size: 1134, 116
+  orig: 1442, 180
+  offset: 132, 51
+  index: -1
+ef/f8
+  rotate: false
+  xy: 0, 982
+  size: 1190, 112
+  orig: 1442, 180
+  offset: 108, 51
+  index: -1
+ef/f9
+  rotate: false
+  xy: 0, 269
+  size: 1229, 102
+  orig: 1442, 180
+  offset: 91, 51
+  index: -1
+effect loe sang
+  rotate: true
+  xy: 1103, 117
+  size: 27, 26
+  orig: 34, 34
+  offset: 3, 4
+  index: -1
+effect loe sang - Copy
+  rotate: true
+  xy: 1103, 117
+  size: 27, 26
+  orig: 34, 34
+  offset: 3, 4
+  index: -1
+effect xanh
+  rotate: false
+  xy: 1381, 34
+  size: 234, 42
+  orig: 245, 53
+  offset: 8, 4
+  index: -1
+nap tien effect
+  rotate: false
+  xy: 1381, 34
+  size: 234, 42
+  orig: 245, 53
+  offset: 8, 4
+  index: -1
+head
+  rotate: false
+  xy: 0, 1720
+  size: 1562, 91
+  orig: 1572, 106
+  offset: 0, 15
+  index: -1
+head effect
+  rotate: true
+  xy: 1518, 1482
+  size: 234, 42
+  orig: 245, 53
+  offset: 8, 4
+  index: -1
+icon dang ky
+  rotate: false
+  xy: 1730, 133
+  size: 68, 75
+  orig: 72, 82
+  offset: 3, 6
+  index: -1
+icon dang nhap
+  rotate: true
+  xy: 1317, 982
+  size: 52, 65
+  orig: 61, 76
+  offset: 3, 10
+  index: -1
+icon menu
+  rotate: true
+  xy: 1185, 21
+  size: 63, 66
+  orig: 66, 70
+  offset: 2, 3
+  index: -1
+icon menu 1
+  rotate: true
+  xy: 1769, 75
+  size: 54, 42
+  orig: 56, 44
+  offset: 1, 1
+  index: -1
+icon menu 2
+  rotate: true
+  xy: 1769, 17
+  size: 54, 42
+  orig: 56, 44
+  offset: 1, 1
+  index: -1
+icon menu 3
+  rotate: false
+  xy: 1255, 0
+  size: 54, 42
+  orig: 56, 44
+  offset: 1, 1
+  index: -1
+jp star
+  rotate: false
+  xy: 1101, 1142
+  size: 87, 62
+  orig: 88, 63
+  offset: 1, 1
+  index: -1
+jp star 1
+  rotate: true
+  xy: 1518, 1397
+  size: 81, 40
+  orig: 89, 44
+  offset: 1, 3
+  index: -1
+jp star 2
+  rotate: true
+  xy: 1518, 1227
+  size: 81, 39
+  orig: 89, 44
+  offset: 1, 4
+  index: -1
+jp star 3
+  rotate: true
+  xy: 1518, 1312
+  size: 81, 40
+  orig: 89, 44
+  offset: 1, 3
+  index: -1
+khong chon game
+  rotate: false
+  xy: 1233, 283
+  size: 157, 88
+  orig: 166, 94
+  offset: 7, 1
+  index: -1
+mail
+  rotate: false
+  xy: 1194, 1031
+  size: 62, 63
+  orig: 66, 66
+  offset: 3, 2
+  index: -1
+mail 1
+  rotate: true
+  xy: 1168, 783
+  size: 57, 46
+  orig: 59, 48
+  offset: 1, 1
+  index: -1
+mail 2
+  rotate: false
+  xy: 1153, 607
+  size: 57, 46
+  orig: 59, 48
+  offset: 1, 1
+  index: -1
+mail 3
+  rotate: false
+  xy: 1214, 607
+  size: 57, 46
+  orig: 59, 48
+  offset: 1, 1
+  index: -1
+menu
+  rotate: true
+  xy: 1518, 1149
+  size: 74, 33
+  orig: 78, 37
+  offset: 3, 3
+  index: -1
+nap tien kim cuong
+  rotate: true
+  xy: 1687, 212
+  size: 257, 99
+  orig: 308, 112
+  offset: 21, 1
+  index: -1
+nhiem vu
+  rotate: false
+  xy: 1194, 954
+  size: 59, 73
+  orig: 62, 79
+  offset: 2, 5
+  index: -1
+nhiem vu 1
+  rotate: true
+  xy: 1324, 1045
+  size: 49, 51
+  orig: 51, 53
+  offset: 1, 1
+  index: -1
+nhiem vu 2
+  rotate: false
+  xy: 1168, 899
+  size: 49, 51
+  orig: 51, 53
+  offset: 1, 1
+  index: -1
+nhiem vu 3
+  rotate: false
+  xy: 1168, 844
+  size: 49, 51
+  orig: 51, 53
+  offset: 1, 1
+  index: -1
+rut_
+  rotate: true
+  xy: 1083, 745
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+ruttien
+  rotate: true
+  xy: 1103, 18
+  size: 66, 78
+  orig: 69, 80
+  offset: 2, 1
+  index: -1
+ruttien 1
+  rotate: true
+  xy: 1257, 967
+  size: 60, 56
+  orig: 62, 58
+  offset: 1, 1
+  index: -1
+ruttien 2
+  rotate: false
+  xy: 1260, 1038
+  size: 60, 56
+  orig: 62, 58
+  offset: 1, 1
+  index: -1
+ruttien 3
+  rotate: true
+  xy: 1307, 903
+  size: 60, 56
+  orig: 62, 58
+  offset: 1, 1
+  index: -1
+shine
+  rotate: false
+  xy: 1192, 1103
+  size: 46, 101
+  orig: 48, 101
+  offset: 1, 0
+  index: -1
+shine1
+  rotate: true
+  xy: 1442, 317
+  size: 256, 98
+  orig: 259, 101
+  offset: 2, 2
+  index: -1
+shine2
+  rotate: true
+  xy: 1619, 7
+  size: 257, 57
+  orig: 259, 64
+  offset: 2, 6
+  index: -1
+shine3
+  rotate: false
+  xy: 1138, 88
+  size: 257, 73
+  orig: 259, 76
+  offset: 2, 2
+  index: -1
+shine4
+  rotate: false
+  xy: 1138, 165
+  size: 257, 99
+  orig: 259, 101
+  offset: 2, 1
+  index: -1
+text nap
+  rotate: false
+  xy: 1394, 268
+  size: 91, 45
+  orig: 107, 55
+  offset: 8, 5
+  index: -1
+thanh dai 2 copy 10
+  rotate: false
+  xy: 1257, 657
+  size: 46, 306
+  orig: 55, 319
+  offset: 1, 5
+  index: -1
+thanh duoi
+  rotate: true
+  xy: 1566, 268
+  size: 1543, 117
+  orig: 1572, 124
+  offset: 28, 1
+  index: -1

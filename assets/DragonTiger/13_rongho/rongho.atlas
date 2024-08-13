@@ -1,0 +1,104 @@
+
+rongho.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Duoi
+  rotate: false
+  xy: 370, 869
+  size: 240, 146
+  orig: 240, 146
+  offset: 0, 0
+  index: -1
+Mat
+  rotate: false
+  xy: 612, 879
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Miengduoi
+  rotate: false
+  xy: 370, 574
+  size: 142, 178
+  orig: 142, 178
+  offset: 0, 0
+  index: -1
+Mongtay
+  rotate: false
+  xy: 514, 698
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Rau1
+  rotate: false
+  xy: 370, 754
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+Rau2
+  rotate: false
+  xy: 2, 2
+  size: 44, 117
+  orig: 44, 117
+  offset: 0, 0
+  index: -1
+Rong
+  rotate: false
+  xy: 2, 561
+  size: 366, 454
+  orig: 366, 454
+  offset: 0, 0
+  index: -1
+Toc1
+  rotate: true
+  xy: 612, 898
+  size: 117, 231
+  orig: 117, 231
+  offset: 0, 0
+  index: -1
+Toc2
+  rotate: false
+  xy: 2, 121
+  size: 141, 210
+  orig: 141, 210
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 145, 179
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: -1
+longho
+  rotate: true
+  xy: 271, 388
+  size: 171, 71
+  orig: 171, 71
+  offset: 0, 0
+  index: -1
+mongtay2
+  rotate: false
+  xy: 271, 337
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+tranh
+  rotate: false
+  xy: 845, 960
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+tt_taixiu_char2
+  rotate: false
+  xy: 2, 333
+  size: 267, 226
+  orig: 267, 226
+  offset: 0, 0
+  index: -1

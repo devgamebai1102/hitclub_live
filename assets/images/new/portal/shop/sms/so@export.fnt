@@ -1,0 +1,22 @@
+info face="so@export" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=30 base=26 scaleW=85 scaleH=84 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="so@export.png"
+chars count=16
+char id=48 x=36 y=26 width=16 height=25 xoffset=0 yoffset=6 xadvance=14 page=0 chnl=0 letter="0"
+char id=49 x=20 y=0 width=11 height=23 xoffset=0 yoffset=7 xadvance=9 page=0 chnl=0 letter="1"
+char id=50 x=53 y=0 width=16 height=24 xoffset=0 yoffset=6 xadvance=14 page=0 chnl=0 letter="2"
+char id=51 x=36 y=52 width=16 height=25 xoffset=0 yoffset=6 xadvance=14 page=0 chnl=0 letter="3"
+char id=52 x=0 y=48 width=17 height=23 xoffset=0 yoffset=7 xadvance=15 page=0 chnl=0 letter="4"
+char id=53 x=69 y=50 width=15 height=24 xoffset=0 yoffset=7 xadvance=13 page=0 chnl=0 letter="5"
+char id=54 x=53 y=25 width=16 height=24 xoffset=0 yoffset=7 xadvance=14 page=0 chnl=0 letter="6"
+char id=55 x=19 y=24 width=16 height=23 xoffset=0 yoffset=7 xadvance=14 page=0 chnl=0 letter="7"
+char id=56 x=36 y=0 width=16 height=25 xoffset=0 yoffset=6 xadvance=14 page=0 chnl=0 letter="8"
+char id=57 x=53 y=50 width=15 height=25 xoffset=0 yoffset=6 xadvance=13 page=0 chnl=0 letter="9"
+char id=46 x=0 y=72 width=8 height=11 xoffset=0 yoffset=19 xadvance=6 page=0 chnl=0 letter="."
+char id=86 x=0 y=0 width=19 height=23 xoffset=0 yoffset=7 xadvance=17 page=0 chnl=0 letter="V"
+char id=78 x=18 y=48 width=17 height=23 xoffset=0 yoffset=7 xadvance=15 page=0 chnl=0 letter="N"
+char id=272 x=0 y=24 width=18 height=23 xoffset=0 yoffset=7 xadvance=16 page=0 chnl=0 letter="Đ"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+
+kernings count=0

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7f293007-5c03-4df3-8e9b-a2b8e018b5cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 67,
+  "platformSettings": {},
+  "subMetas": {
+    "vietNamMobileOff": {
+      "ver": "1.0.4",
+      "uuid": "2df0f560-6221-4c36-ac3f-a0e144451aa6",
+      "rawTextureUuid": "7f293007-5c03-4df3-8e9b-a2b8e018b5cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 67,
+      "rawWidth": 118,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6ff94743-5e54-466e-bf49-7310ea078170",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 454,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "phan chua thong tin nguoi choi": {
+      "ver": "1.0.4",
+      "uuid": "a707b2e7-5834-40ff-bbc2-82a99ba8b0f2",
+      "rawTextureUuid": "6ff94743-5e54-466e-bf49-7310ea078170",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 454,
+      "height": 90,
+      "rawWidth": 454,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

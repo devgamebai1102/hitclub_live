@@ -1,0 +1,76 @@
+
+freespin_ani.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 0, 211
+  size: 153, 160
+  orig: 153, 160
+  offset: 0, 0
+  index: -1
+free spin
+  rotate: false
+  xy: 160, 320
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sprite_01
+  rotate: false
+  xy: 160, 227
+  size: 111, 93
+  orig: 114, 96
+  offset: 2, 0
+  index: -1
+sprite_02
+  rotate: true
+  xy: 270, 100
+  size: 109, 94
+  orig: 114, 96
+  offset: 2, 0
+  index: -1
+sprite_03
+  rotate: false
+  xy: 160, 134
+  size: 110, 93
+  orig: 114, 96
+  offset: 2, 0
+  index: -1
+sprite_04
+  rotate: false
+  xy: 110, 42
+  size: 109, 92
+  orig: 114, 96
+  offset: 0, 2
+  index: -1
+sprite_05
+  rotate: false
+  xy: 0, 117
+  size: 110, 94
+  orig: 114, 96
+  offset: 2, 2
+  index: -1
+sprite_06
+  rotate: false
+  xy: 0, 22
+  size: 109, 95
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+sprite_07
+  rotate: true
+  xy: 271, 209
+  size: 111, 92
+  orig: 114, 94
+  offset: 1, 2
+  index: -1
+sprite_08
+  rotate: false
+  xy: 219, 10
+  size: 109, 90
+  orig: 114, 94
+  offset: 0, 4
+  index: -1

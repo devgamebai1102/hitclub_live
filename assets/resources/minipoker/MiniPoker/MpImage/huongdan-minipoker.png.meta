@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a7885093-f040-471b-938e-57fcac97c5b8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1100,
+  "height": 826,
+  "platformSettings": {},
+  "subMetas": {
+    "huongdan-minipoker": {
+      "ver": "1.0.4",
+      "uuid": "78620bf3-ef74-4a33-901c-870ebc242566",
+      "rawTextureUuid": "a7885093-f040-471b-938e-57fcac97c5b8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1100,
+      "height": 826,
+      "rawWidth": 1100,
+      "rawHeight": 826,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

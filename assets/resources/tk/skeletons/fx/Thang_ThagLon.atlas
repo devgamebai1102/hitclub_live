@@ -1,0 +1,48 @@
+
+Thang_ThagLon.png
+size: 550,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+co
+  rotate: false
+  xy: 0, 17
+  size: 292, 294
+  orig: 292, 294
+  offset: 0, 0
+  index: -1
+it
+  rotate: true
+  xy: 349, 308
+  size: 242, 190
+  orig: 242, 190
+  offset: 0, 0
+  index: -1
+it1
+  rotate: true
+  xy: 292, 0
+  size: 188, 193
+  orig: 212, 217
+  offset: 24, 12
+  index: -1
+k
+  rotate: false
+  xy: 0, 311
+  size: 347, 117
+  orig: 347, 117
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 292, 188
+  size: 217, 120
+  orig: 217, 120
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 0, 428
+  size: 349, 122
+  orig: 349, 122
+  offset: 0, 0
+  index: -1

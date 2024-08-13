@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "433fe3e1-5c97-4d1e-a5b9-9bac5dc29f7e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 276,
+  "height": 446,
+  "platformSettings": {},
+  "subMetas": {
+    "9998_AKTV_Banner": {
+      "ver": "1.0.4",
+      "uuid": "7a417664-412f-4dab-aca5-95d09cd019f2",
+      "rawTextureUuid": "433fe3e1-5c97-4d1e-a5b9-9bac5dc29f7e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 276,
+      "height": 446,
+      "rawWidth": 276,
+      "rawHeight": 446,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

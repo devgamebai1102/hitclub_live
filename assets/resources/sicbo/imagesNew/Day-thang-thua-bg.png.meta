@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8cd4c9b9-9a18-4a62-b755-5c3c2c4461b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 938,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "Day-thang-thua-bg": {
+      "ver": "1.0.4",
+      "uuid": "c7c25ba1-6dbe-424d-a77f-3311baea22aa",
+      "rawTextureUuid": "8cd4c9b9-9a18-4a62-b755-5c3c2c4461b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 938,
+      "height": 102,
+      "rawWidth": 938,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

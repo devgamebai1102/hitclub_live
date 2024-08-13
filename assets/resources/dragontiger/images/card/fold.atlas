@@ -1,0 +1,27 @@
+
+fold.png
+size: 106,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fold_b
+  rotate: true
+  xy: 0, 0
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+fold_bg
+  rotate: false
+  xy: 0, 44
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+fold_card
+  rotate: false
+  xy: 51, 48
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1

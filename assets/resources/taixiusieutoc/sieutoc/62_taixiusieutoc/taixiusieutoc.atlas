@@ -1,0 +1,34 @@
+
+taixiusieutoc.png
+size: 276, 144
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+sieu
+  rotate: false
+  xy: 2, 76
+  size: 156, 66
+  orig: 156, 66
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 160, 77
+  size: 114, 65
+  orig: 114, 65
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 2, 2
+  size: 137, 72
+  orig: 137, 72
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 141, 4
+  size: 124, 70
+  orig: 124, 70
+  offset: 0, 0
+  index: -1

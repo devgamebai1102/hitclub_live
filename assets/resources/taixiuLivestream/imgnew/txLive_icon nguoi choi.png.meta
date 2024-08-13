@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c374548e-0253-4cae-807a-7c79a7280f30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 41,
+  "height": 41,
+  "platformSettings": {},
+  "subMetas": {
+    "txLive_icon nguoi choi": {
+      "ver": "1.0.4",
+      "uuid": "802b864e-a6ac-4fa5-93fb-e937bfee95bd",
+      "rawTextureUuid": "c374548e-0253-4cae-807a-7c79a7280f30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 41,
+      "height": 41,
+      "rawWidth": 41,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,132 @@
+
+poker_win.png
+size: 496,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1doi
+  rotate: false
+  xy: 221, 4
+  size: 86, 49
+  orig: 86, 49
+  offset: 0, 0
+  index: -1
+2doi
+  rotate: true
+  xy: 442, 90
+  size: 176, 49
+  orig: 176, 49
+  offset: 0, 0
+  index: -1
+Thang
+  rotate: true
+  xy: 1, 25
+  size: 161, 58
+  orig: 161, 58
+  offset: 0, 0
+  index: -1
+baiCao
+  rotate: true
+  xy: 391, 72
+  size: 194, 50
+  orig: 194, 50
+  offset: 0, 0
+  index: -1
+bg_Th
+  rotate: true
+  xy: 312, 199
+  size: 296, 78
+  orig: 296, 78
+  offset: 0, 0
+  index: -1
+bich
+  rotate: true
+  xy: 255, 76
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 60, 1
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+cr
+  rotate: false
+  xy: 162, 54
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+culu
+  rotate: true
+  xy: 111, 53
+  size: 133, 50
+  orig: 133, 50
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 1, 187
+  size: 310, 308
+  orig: 310, 308
+  offset: 0, 0
+  index: -1
+ken
+  rotate: false
+  xy: 162, 116
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+ro
+  rotate: true
+  xy: 336, 8
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+sanh
+  rotate: false
+  xy: 364, 19
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+tep
+  rotate: false
+  xy: 308, 4
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+thung
+  rotate: true
+  xy: 60, 27
+  size: 159, 50
+  orig: 159, 50
+  offset: 0, 0
+  index: -1
+tps
+  rotate: true
+  xy: 391, 267
+  size: 228, 101
+  orig: 228, 101
+  offset: 0, 0
+  index: -1
+tquy
+  rotate: true
+  xy: 312, 32
+  size: 166, 51
+  orig: 166, 51
+  offset: 0, 0
+  index: -1
+xam
+  rotate: false
+  xy: 111, 2
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+MDLA_XX5.png
+size: 930,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dam Nguyet Anh Body
+  rotate: true
+  xy: 289, 73
+  size: 224, 314
+  orig: 224, 314
+  offset: 0, 0
+  index: -1
+Dam Nguyet Anh Forearm
+  rotate: true
+  xy: 769, 340
+  size: 49, 147
+  orig: 49, 147
+  offset: 0, 0
+  index: -1
+Dam Nguyet Anh Head
+  rotate: true
+  xy: 605, 601
+  size: 109, 316
+  orig: 109, 316
+  offset: 0, 0
+  index: -1
+Diem Nuu Arm Left
+  rotate: true
+  xy: 769, 226
+  size: 112, 125
+  orig: 112, 125
+  offset: 0, 0
+  index: -1
+Diem Nuu Arm Right
+  rotate: false
+  xy: 288, 6
+  size: 146, 62
+  orig: 146, 62
+  offset: 0, 0
+  index: -1
+Diem Nuu Head
+  rotate: false
+  xy: 403, 304
+  size: 98, 168
+  orig: 98, 168
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 716, 251
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Nam Arm Left
+  rotate: false
+  xy: 561, 4
+  size: 151, 67
+  orig: 151, 67
+  offset: 0, 0
+  index: -1
+Nam Balls
+  rotate: false
+  xy: 149, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Nam Body
+  rotate: true
+  xy: 586, 444
+  size: 155, 339
+  orig: 155, 339
+  offset: 0, 0
+  index: -1
+Nam Forearm Left
+  rotate: true
+  xy: 714, 6
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+Nam Forearm Right
+  rotate: false
+  xy: 708, 306
+  size: 45, 136
+  orig: 45, 136
+  offset: 0, 0
+  index: -1
+Nam Hair
+  rotate: true
+  xy: 83, 2
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+Nam Hand Left
+  rotate: true
+  xy: 436, 2
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+Nam Head
+  rotate: false
+  xy: 593, 306
+  size: 113, 136
+  orig: 113, 136
+  offset: 0, 0
+  index: -1
+Nam Leg Left
+  rotate: false
+  xy: 403, 474
+  size: 177, 103
+  orig: 177, 103
+  offset: 0, 0
+  index: -1
+Nam Leg Right
+  rotate: false
+  xy: 403, 606
+  size: 183, 104
+  orig: 183, 104
+  offset: 0, 0
+  index: -1
+Nam Penis
+  rotate: false
+  xy: 503, 442
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+Nam Penis Fur
+  rotate: true
+  xy: 813, 79
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Arm
+  rotate: true
+  xy: 605, 81
+  size: 223, 109
+  orig: 223, 109
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Body
+  rotate: false
+  xy: 2, 287
+  size: 188, 423
+  orig: 188, 423
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Breast
+  rotate: false
+  xy: 769, 20
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Hair
+  rotate: true
+  xy: 716, 126
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Hair Back
+  rotate: false
+  xy: 83, 26
+  size: 64, 259
+  orig: 64, 259
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Head
+  rotate: false
+  xy: 505, 2
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Jewelry
+  rotate: false
+  xy: 896, 310
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Leg Right
+  rotate: true
+  xy: 149, 48
+  size: 237, 66
+  orig: 237, 66
+  offset: 0, 0
+  index: -1
+Nguu Le Hoa Thigh Right
+  rotate: false
+  xy: 217, 70
+  size: 70, 227
+  orig: 70, 227
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 823, 22
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Ton Tam Nuong Arm Left
+  rotate: true
+  xy: 187, 9
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Ton Tam Nuong Body
+  rotate: false
+  xy: 192, 299
+  size: 209, 411
+  orig: 209, 411
+  offset: 0, 0
+  index: -1
+Ton Tam Nuong Forearm
+  rotate: true
+  xy: 755, 391
+  size: 51, 167
+  orig: 51, 167
+  offset: 0, 0
+  index: -1
+Ton Tam Nuong Hair Behind
+  rotate: false
+  xy: 2, 13
+  size: 79, 272
+  orig: 79, 272
+  offset: 0, 0
+  index: -1
+Ton Tam Nuong Hair Front A
+  rotate: true
+  xy: 403, 579
+  size: 25, 181
+  orig: 25, 181
+  offset: 0, 0
+  index: -1
+Ton Tam Nuong Hair Front B
+  rotate: false
+  xy: 252, 3
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+Ton Tam Nuong Head
+  rotate: true
+  xy: 813, 137
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+Ton tam Nuong Leg
+  rotate: true
+  xy: 503, 302
+  size: 138, 88
+  orig: 138, 88
+  offset: 0, 0
+  index: -1

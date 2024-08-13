@@ -1,0 +1,229 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "columnStop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.4166666666666665,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {
+      "slot0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 330
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -330
+            },
+            {
+              "frame": 1.35,
+              "value": 330
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 270
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": 330
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 1.35,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 165
+            },
+            {
+              "frame": 1,
+              "value": -330
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": 330
+            },
+            {
+              "frame": 1.35,
+              "value": 165
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 105
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": 165
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                -330
+              ]
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": [
+                0,
+                330
+              ]
+            },
+            {
+              "frame": 1.35,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                0,
+                -60
+              ]
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -165
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                -330
+              ]
+            },
+            {
+              "frame": 0.35,
+              "value": [
+                0,
+                330
+              ]
+            },
+            {
+              "frame": 1.35,
+              "value": [
+                0,
+                -165
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                0,
+                -225
+              ]
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": [
+                0,
+                -165
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.35,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.4166666666666665,
+      "func": "finishSpin",
+      "params": []
+    }
+  ]
+}

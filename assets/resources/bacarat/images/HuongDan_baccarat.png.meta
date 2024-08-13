@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "eebd1d38-db80-44b2-a22a-c7a192117a65",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 922,
+  "height": 1054,
+  "platformSettings": {},
+  "subMetas": {
+    "HuongDan_baccarat": {
+      "ver": "1.0.4",
+      "uuid": "1b06a03e-9ee7-4c58-9905-1e6f89371138",
+      "rawTextureUuid": "eebd1d38-db80-44b2-a22a-c7a192117a65",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 922,
+      "height": 1054,
+      "rawWidth": 922,
+      "rawHeight": 1054,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

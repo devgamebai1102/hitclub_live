@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8cff6027-4ba0-4c2a-b576-9de1c48b774f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 89,
+  "height": 23,
+  "platformSettings": {},
+  "subMetas": {
+    "giudetuquay": {
+      "ver": "1.0.4",
+      "uuid": "43e70ee9-c4f8-4a0b-b873-3fa4477dcf84",
+      "rawTextureUuid": "8cff6027-4ba0-4c2a-b576-9de1c48b774f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 22,
+      "rawWidth": 89,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

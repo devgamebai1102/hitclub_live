@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "71aa5760-c44e-4179-b3f9-7ef4d2421288",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 259,
+  "height": 338,
+  "platformSettings": {},
+  "subMetas": {
+    "baccarat14": {
+      "ver": "1.0.4",
+      "uuid": "40e25f10-d045-4280-bc71-2889d8d46e94",
+      "rawTextureUuid": "71aa5760-c44e-4179-b3f9-7ef4d2421288",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 259,
+      "height": 338,
+      "rawWidth": 259,
+      "rawHeight": 338,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

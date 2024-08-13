@@ -1,0 +1,27 @@
+
+7_slot.png
+size: 130,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 1, 43
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+WILD
+  rotate: false
+  xy: 1, 1
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+hlfx3
+  rotate: false
+  xy: 91, 101
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1

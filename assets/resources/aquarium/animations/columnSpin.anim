@@ -1,0 +1,192 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "columnSpin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "slot0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 330
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -330
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 330
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 165
+            },
+            {
+              "frame": 0.5,
+              "value": -330
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 330
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 165
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -330
+            },
+            {
+              "frame": 0.35,
+              "value": 330
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.35,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -165
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                0,
+                -330
+              ]
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": [
+                0,
+                330
+              ]
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": [
+                0,
+                -165
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.16666666666666666,
+      "func": "randomIcon",
+      "params": [
+        "3"
+      ]
+    },
+    {
+      "frame": 0.3333333333333333,
+      "func": "randomIcon",
+      "params": [
+        2
+      ]
+    },
+    {
+      "frame": 0.5,
+      "func": "randomIcon",
+      "params": [
+        1
+      ]
+    },
+    {
+      "frame": 0.6666666666666666,
+      "func": "randomIcon",
+      "params": [
+        0
+      ]
+    }
+  ]
+}

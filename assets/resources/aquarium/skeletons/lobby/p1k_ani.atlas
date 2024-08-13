@@ -1,0 +1,20 @@
+
+p1k_ani.png
+size: 595,595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light3
+  rotate: false
+  xy: 2, 318
+  size: 364, 275
+  orig: 364, 275
+  offset: 0, 0
+  index: -1
+p_2
+  rotate: true
+  xy: 2, 2
+  size: 314, 324
+  orig: 314, 324
+  offset: 0, 0
+  index: -1

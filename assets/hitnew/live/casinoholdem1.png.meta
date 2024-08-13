@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6787962b-700e-4cb6-b1a2-4c321b43a82e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 259,
+  "height": 333,
+  "platformSettings": {},
+  "subMetas": {
+    "casinoholdem1": {
+      "ver": "1.0.4",
+      "uuid": "33312367-9ab3-4f04-a4b6-08a1430c71b1",
+      "rawTextureUuid": "6787962b-700e-4cb6-b1a2-4c321b43a82e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 259,
+      "height": 333,
+      "rawWidth": 259,
+      "rawHeight": 333,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

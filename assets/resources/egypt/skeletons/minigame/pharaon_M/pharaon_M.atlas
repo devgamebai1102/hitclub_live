@@ -1,0 +1,13 @@
+
+pharaon_M.png
+size: 137,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pharaon
+  rotate: false
+  xy: 0, 0
+  size: 105, 137
+  orig: 109, 142
+  offset: 4, 0
+  index: -1

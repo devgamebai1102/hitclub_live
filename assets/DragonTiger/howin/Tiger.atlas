@@ -1,0 +1,41 @@
+
+Tiger.png
+size: 1173, 480
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Tiger
+  rotate: false
+  xy: 885, 131
+  size: 286, 347
+  orig: 286, 347
+  offset: 0, 0
+  index: -1
+close_eyes_l
+  rotate: false
+  xy: 885, 70
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+close_eyes_r
+  rotate: true
+  xy: 945, 64
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 503, 84
+  size: 394, 380
+  orig: 394, 380
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 2
+  size: 499, 476
+  orig: 499, 476
+  offset: 0, 0
+  index: -1

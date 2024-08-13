@@ -1,0 +1,62 @@
+
+Thang1_2.png
+size: 1005,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gs
+  rotate: false
+  xy: 0, 815
+  size: 699, 190
+  orig: 699, 190
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 0, 226
+  size: 611, 589
+  orig: 611, 589
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 699, 846
+  size: 177, 159
+  orig: 177, 159
+  offset: 0, 0
+  index: -1
+nentien
+  rotate: true
+  xy: 611, 394
+  size: 421, 66
+  orig: 421, 66
+  offset: 0, 0
+  index: -1
+so
+  rotate: true
+  xy: 611, 64
+  size: 330, 61
+  orig: 330, 61
+  offset: 0, 0
+  index: -1
+thang
+  rotate: true
+  xy: 677, 415
+  size: 400, 226
+  orig: 400, 226
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 0, 0
+  size: 603, 226
+  orig: 603, 226
+  offset: 0, 0
+  index: -1
+vang
+  rotate: true
+  xy: 677, 47
+  size: 368, 242
+  orig: 368, 242
+  offset: 0, 0
+  index: -1

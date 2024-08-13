@@ -1,0 +1,20 @@
+
+p100_ani.png
+size: 681,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P_1
+  rotate: false
+  xy: 2, 175
+  size: 369, 502
+  orig: 369, 502
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 373, 312
+  size: 306, 365
+  orig: 306, 365
+  offset: 0, 0
+  index: -1

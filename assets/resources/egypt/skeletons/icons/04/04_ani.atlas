@@ -1,0 +1,27 @@
+
+04_ani.png
+size: 294,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 148, 164
+  size: 146, 130
+  orig: 146, 130
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 0, 3
+  size: 147, 134
+  orig: 147, 134
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 0, 137
+  size: 148, 157
+  orig: 148, 157
+  offset: 0, 0
+  index: -1

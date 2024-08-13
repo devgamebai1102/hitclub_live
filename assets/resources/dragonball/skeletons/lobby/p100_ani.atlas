@@ -1,0 +1,13 @@
+
+p100_ani.png
+size: 408,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_p100
+  rotate: false
+  xy: 2, 2
+  size: 404, 463
+  orig: 404, 463
+  offset: 0, 0
+  index: -1

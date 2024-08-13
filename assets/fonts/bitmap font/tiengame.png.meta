@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4597aeaa-5d26-4769-981b-2e93a9885f3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "tiengame": {
+      "ver": "1.0.4",
+      "uuid": "3c03ae0d-5109-4940-b730-7a7f32109df3",
+      "rawTextureUuid": "4597aeaa-5d26-4769-981b-2e93a9885f3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 2.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 112,
+      "height": 59,
+      "rawWidth": 128,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

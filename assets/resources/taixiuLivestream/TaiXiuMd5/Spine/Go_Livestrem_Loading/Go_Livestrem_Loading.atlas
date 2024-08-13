@@ -1,0 +1,20 @@
+
+Go_Livestrem_Loading.png
+size: 233,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Text
+  rotate: false
+  xy: 2, 184
+  size: 229, 45
+  orig: 229, 45
+  offset: 0, 0
+  index: -1
+VongTron
+  rotate: false
+  xy: 2, 64
+  size: 120, 118
+  orig: 120, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c94fca96-eb8b-45cd-8d2d-d89746a9dcc9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 23,
+  "height": 23,
+  "platformSettings": {},
+  "subMetas": {
+    "cauden": {
+      "ver": "1.0.4",
+      "uuid": "abf7252f-9a44-4653-b068-a3e21fc340da",
+      "rawTextureUuid": "c94fca96-eb8b-45cd-8d2d-d89746a9dcc9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 23,
+      "height": 23,
+      "rawWidth": 23,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "columnStop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.35,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {
+      "slot0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 298
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -302
+            },
+            {
+              "frame": 1.35,
+              "value": 298
+            },
+            {
+              "frame": 1.85,
+              "value": 238
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 298
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 268
+            },
+            {
+              "frame": 3.35,
+              "value": 298
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 1.35,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 148
+            },
+            {
+              "frame": 1,
+              "value": -302
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": 298
+            },
+            {
+              "frame": 1.35,
+              "value": 148
+            },
+            {
+              "frame": 1.85,
+              "value": 88
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 148
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 118
+            },
+            {
+              "frame": 3.35,
+              "value": 148
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -2
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                -302
+              ]
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": [
+                0,
+                298
+              ]
+            },
+            {
+              "frame": 1.35,
+              "value": [
+                0,
+                -2
+              ]
+            },
+            {
+              "frame": 1.85,
+              "value": [
+                0,
+                -62
+              ]
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": [
+                0,
+                -2
+              ]
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": [
+                0,
+                -32
+              ]
+            },
+            {
+              "frame": 3.35,
+              "value": [
+                0,
+                -2
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -152
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                -302
+              ]
+            },
+            {
+              "frame": 0.35,
+              "value": [
+                0,
+                298
+              ]
+            },
+            {
+              "frame": 1.35,
+              "value": [
+                0,
+                -152
+              ]
+            },
+            {
+              "frame": 1.85,
+              "value": [
+                0,
+                -212
+              ]
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": [
+                0,
+                -152
+              ]
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": [
+                0,
+                -182
+              ]
+            },
+            {
+              "frame": 3.35,
+              "value": [
+                0,
+                -152
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.35,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.6666666666666665,
+      "func": "finishSpin",
+      "params": []
+    }
+  ]
+}

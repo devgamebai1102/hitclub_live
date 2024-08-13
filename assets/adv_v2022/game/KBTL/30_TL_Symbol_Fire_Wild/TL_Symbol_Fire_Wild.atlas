@@ -1,0 +1,286 @@
+
+TL_Symbol_Fire_Wild.png
+size: 479,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 202, 9
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00000
+  rotate: false
+  xy: 2, 149
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00001
+  rotate: false
+  xy: 131, 354
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00002
+  rotate: false
+  xy: 250, 404
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00003
+  rotate: false
+  xy: 2, 105
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00004
+  rotate: false
+  xy: 350, 404
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00005
+  rotate: false
+  xy: 2, 61
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00006
+  rotate: false
+  xy: 2, 17
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00007
+  rotate: false
+  xy: 131, 310
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00008
+  rotate: false
+  xy: 128, 266
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00009
+  rotate: false
+  xy: 128, 222
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00010
+  rotate: false
+  xy: 128, 178
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00011
+  rotate: false
+  xy: 102, 134
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00012
+  rotate: false
+  xy: 102, 90
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00013
+  rotate: false
+  xy: 102, 46
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00014
+  rotate: false
+  xy: 102, 2
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00015
+  rotate: true
+  xy: 202, 78
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00016
+  rotate: true
+  xy: 231, 298
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00017
+  rotate: true
+  xy: 228, 198
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00018
+  rotate: false
+  xy: 275, 360
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00019
+  rotate: false
+  xy: 275, 316
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 011 Slash Right noCT noRSZ_00020
+  rotate: true
+  xy: 375, 304
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00000
+  rotate: false
+  xy: 419, 344
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00001
+  rotate: false
+  xy: 419, 284
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00002
+  rotate: false
+  xy: 275, 256
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00003
+  rotate: false
+  xy: 272, 196
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00004
+  rotate: false
+  xy: 246, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00005
+  rotate: false
+  xy: 306, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00006
+  rotate: false
+  xy: 332, 196
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00007
+  rotate: false
+  xy: 366, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00008
+  rotate: false
+  xy: 392, 224
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00009
+  rotate: false
+  xy: 271, 76
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00010
+  rotate: false
+  xy: 271, 16
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00011
+  rotate: false
+  xy: 331, 76
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00012
+  rotate: false
+  xy: 331, 16
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00013
+  rotate: false
+  xy: 391, 76
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00014
+  rotate: false
+  xy: 391, 16
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+caulua
+  rotate: false
+  xy: 2, 319
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+caulua2
+  rotate: false
+  xy: 2, 193
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 131, 398
+  size: 117, 48
+  orig: 117, 48
+  offset: 0, 0
+  index: -1

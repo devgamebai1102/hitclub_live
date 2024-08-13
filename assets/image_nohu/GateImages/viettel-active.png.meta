@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "65db91be-246a-4598-8cf8-89283b8ab693",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 184,
+  "height": 114,
+  "platformSettings": {},
+  "subMetas": {
+    "viettel-active": {
+      "ver": "1.0.4",
+      "uuid": "3c34d434-fcf1-4dba-ba79-ca78c775dff2",
+      "rawTextureUuid": "65db91be-246a-4598-8cf8-89283b8ab693",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 114,
+      "rawWidth": 184,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

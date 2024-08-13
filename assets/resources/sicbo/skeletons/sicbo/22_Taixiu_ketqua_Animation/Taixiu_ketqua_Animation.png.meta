@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "06dfe365-10c4-443d-984f-2e3afdb07b0f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Taixiu_ketqua_Animation": {
+      "ver": "1.0.4",
+      "uuid": "13a65bdd-430e-4ac2-99e3-583bc8509185",
+      "rawTextureUuid": "06dfe365-10c4-443d-984f-2e3afdb07b0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -132,
+      "offsetY": 26.5,
+      "trimX": 2,
+      "trimY": 4,
+      "width": 756,
+      "height": 195,
+      "rawWidth": 1024,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

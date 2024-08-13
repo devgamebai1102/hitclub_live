@@ -1,0 +1,27 @@
+
+rong_ani.png
+size: 477,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r
+  rotate: false
+  xy: 109, 220
+  size: 268, 255
+  orig: 268, 255
+  offset: 0, 0
+  index: -1
+r1
+  rotate: false
+  xy: 2, 139
+  size: 105, 336
+  orig: 105, 336
+  offset: 0, 0
+  index: -1
+rda
+  rotate: true
+  xy: 109, 2
+  size: 216, 239
+  orig: 216, 239
+  offset: 0, 0
+  index: -1

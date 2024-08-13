@@ -1,0 +1,27 @@
+
+item_tichluy_ani.png
+size: 324,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_v
+  rotate: true
+  xy: 248, 67
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+i_x
+  rotate: true
+  xy: 2, 2
+  size: 137, 115
+  orig: 137, 115
+  offset: 0, 0
+  index: -1
+icon_tichluy
+  rotate: true
+  xy: 119, 11
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1

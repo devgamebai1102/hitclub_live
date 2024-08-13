@@ -1,0 +1,41 @@
+
+bonus_p2.png
+size: 267,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 0, 0
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+item_bonus2
+  rotate: true
+  xy: 181, 169
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 181, 141
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+sheld
+  rotate: false
+  xy: 0, 133
+  size: 142, 134
+  orig: 142, 134
+  offset: 0, 0
+  index: -1
+text_bn
+  rotate: true
+  xy: 142, 137
+  size: 130, 39
+  orig: 130, 39
+  offset: 0, 0
+  index: -1

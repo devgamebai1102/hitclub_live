@@ -1,0 +1,83 @@
+
+mermaid_ani.png
+size: 622,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb2
+  rotate: false
+  xy: 454, 103
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+bh1
+  rotate: true
+  xy: 570, 529
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+bh2
+  rotate: true
+  xy: 454, 175
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+bh3
+  rotate: false
+  xy: 454, 46
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+bo
+  rotate: false
+  xy: 454, 524
+  size: 114, 96
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+mermaid
+  rotate: false
+  xy: 2, 2
+  size: 450, 618
+  orig: 450, 618
+  offset: 0, 0
+  index: -1
+t1p
+  rotate: true
+  xy: 515, 444
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+t1t
+  rotate: false
+  xy: 454, 249
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+t2p
+  rotate: false
+  xy: 454, 328
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+t2t
+  rotate: false
+  xy: 454, 421
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+t3p
+  rotate: true
+  xy: 454, 15
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1

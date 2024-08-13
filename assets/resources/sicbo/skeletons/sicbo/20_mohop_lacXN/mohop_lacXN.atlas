@@ -1,0 +1,27 @@
+
+mohop_lacXN.png
+size: 1010,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DayHop
+  rotate: true
+  xy: 2, 2
+  size: 463, 408
+  orig: 463, 408
+  offset: 0, 0
+  index: -1
+lighting01
+  rotate: true
+  xy: 829, 277
+  size: 188, 179
+  orig: 188, 179
+  offset: 0, 0
+  index: -1
+lighting02
+  rotate: false
+  xy: 412, 50
+  size: 415, 415
+  orig: 415, 415
+  offset: 0, 0
+  index: -1

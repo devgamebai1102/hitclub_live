@@ -1,0 +1,118 @@
+
+Mbinh_win.png
+size: 836,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3sanh
+  rotate: true
+  xy: 671, 64
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+3th
+  rotate: true
+  xy: 620, 31
+  size: 229, 50
+  orig: 229, 50
+  offset: 0, 0
+  index: -1
+5d1x
+  rotate: true
+  xy: 450, 35
+  size: 284, 51
+  orig: 284, 51
+  offset: 0, 0
+  index: -1
+Thang
+  rotate: false
+  xy: 671, 5
+  size: 161, 58
+  orig: 161, 58
+  offset: 0, 0
+  index: -1
+bg_Th
+  rotate: true
+  xy: 310, 23
+  size: 296, 78
+  orig: 296, 78
+  offset: 0, 0
+  index: -1
+bich
+  rotate: true
+  xy: 795, 221
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 620, 5
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+cr
+  rotate: false
+  xy: 724, 75
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+dh
+  rotate: true
+  xy: 561, 1
+  size: 259, 58
+  orig: 259, 58
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 1, 9
+  size: 310, 308
+  orig: 310, 308
+  offset: 0, 0
+  index: -1
+ken
+  rotate: true
+  xy: 724, 137
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+lpb
+  rotate: true
+  xy: 389, 25
+  size: 294, 60
+  orig: 294, 60
+  offset: 0, 0
+  index: -1
+rc
+  rotate: true
+  xy: 502, 36
+  size: 283, 58
+  orig: 283, 58
+  offset: 0, 0
+  index: -1
+ro
+  rotate: true
+  xy: 530, 12
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+sr
+  rotate: false
+  xy: 561, 261
+  size: 274, 58
+  orig: 274, 58
+  offset: 0, 0
+  index: -1
+tep
+  rotate: false
+  xy: 502, 8
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

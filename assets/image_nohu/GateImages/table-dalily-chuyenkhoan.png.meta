@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b4291dce-2276-4c85-8a71-976dee4247f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 721,
+  "height": 398,
+  "platformSettings": {},
+  "subMetas": {
+    "table-dalily-chuyenkhoan": {
+      "ver": "1.0.4",
+      "uuid": "e690b926-d59d-4571-a6e3-6bd457666ca5",
+      "rawTextureUuid": "b4291dce-2276-4c85-8a71-976dee4247f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 7,
+      "trimY": 1,
+      "width": 707,
+      "height": 397,
+      "rawWidth": 721,
+      "rawHeight": 398,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

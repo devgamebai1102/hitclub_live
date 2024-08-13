@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "92af9746-6751-4ec5-a67d-e4eecffdb9a8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 369,
+  "platformSettings": {},
+  "subMetas": {
+    "tayduky_bonusgame_BG0": {
+      "ver": "1.0.4",
+      "uuid": "937d6d08-afe7-48b8-adfb-9d4fd26deb83",
+      "rawTextureUuid": "92af9746-6751-4ec5-a67d-e4eecffdb9a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 369,
+      "rawWidth": 800,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

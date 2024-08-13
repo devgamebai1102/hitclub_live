@@ -1,0 +1,97 @@
+
+nut swap.png
+size: 189,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 8
+  rotate: false
+  xy: 90, 101
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Group 44 copy
+  rotate: false
+  xy: 2, 139
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+Group 44 copya
+  rotate: false
+  xy: 2, 89
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+Group 49
+  rotate: false
+  xy: 2, 42
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Group 49a
+  rotate: false
+  xy: 90, 142
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+effectSwap0000
+  rotate: false
+  xy: 135, 149
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effectSwap0001
+  rotate: false
+  xy: 2, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effectSwap0002
+  rotate: false
+  xy: 47, 49
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effectSwap0003
+  rotate: false
+  xy: 90, 61
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effectSwap0004
+  rotate: false
+  xy: 87, 21
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effectSwap0005
+  rotate: false
+  xy: 47, 9
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effectSwap0006
+  rotate: false
+  xy: 135, 109
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effectSwap0007
+  rotate: false
+  xy: 131, 69
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

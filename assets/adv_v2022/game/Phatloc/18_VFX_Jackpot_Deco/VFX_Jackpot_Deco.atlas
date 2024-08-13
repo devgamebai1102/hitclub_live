@@ -1,0 +1,76 @@
+
+VFX_Jackpot_Deco.png
+size: 376,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanhChung_Left
+  rotate: false
+  xy: 253, 174
+  size: 121, 105
+  orig: 121, 105
+  offset: 0, 0
+  index: -1
+BanhChung_Right
+  rotate: false
+  xy: 253, 67
+  size: 121, 105
+  orig: 121, 105
+  offset: 0, 0
+  index: -1
+BanhChung_Shadow
+  rotate: true
+  xy: 82, 147
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+BanhTet_Doc_1
+  rotate: true
+  xy: 213, 2
+  size: 63, 123
+  orig: 63, 123
+  offset: 0, 0
+  index: -1
+BanhTet_Doc_1_Shadow
+  rotate: false
+  xy: 67, 6
+  size: 74, 133
+  orig: 74, 133
+  offset: 0, 0
+  index: -1
+BanhTet_Doc_2
+  rotate: false
+  xy: 143, 17
+  size: 68, 128
+  orig: 68, 128
+  offset: 0, 0
+  index: -1
+BanhTet_Doc_2_Shadow
+  rotate: false
+  xy: 2, 141
+  size: 78, 138
+  orig: 78, 138
+  offset: 0, 0
+  index: -1
+BanhTet_Ngang
+  rotate: true
+  xy: 199, 154
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+BanhTet_Ngang_Shadow
+  rotate: true
+  xy: 2, 4
+  size: 135, 63
+  orig: 135, 63
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 213, 114
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

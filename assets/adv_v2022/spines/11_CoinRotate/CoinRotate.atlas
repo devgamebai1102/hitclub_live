@@ -1,0 +1,76 @@
+
+CoinRotate.png
+size: 579,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 402
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 227
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 170, 402
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 52
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 170, 227
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 338, 402
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 170, 52
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 338, 227
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+Blur
+  rotate: true
+  xy: 338, 47
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 474, 111
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1

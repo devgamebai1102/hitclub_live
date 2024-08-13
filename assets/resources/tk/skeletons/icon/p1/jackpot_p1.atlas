@@ -1,0 +1,48 @@
+
+jackpot_p1.png
+size: 281,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: true
+  xy: 147, 140
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+item_jp1_1
+  rotate: false
+  xy: 0, 3
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+item_jp1_2
+  rotate: false
+  xy: 142, 7
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 103, 81
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+sheld
+  rotate: false
+  xy: 0, 109
+  size: 142, 134
+  orig: 142, 134
+  offset: 0, 0
+  index: -1
+text_jp
+  rotate: false
+  xy: 0, 243
+  size: 147, 38
+  orig: 147, 38
+  offset: 0, 0
+  index: -1

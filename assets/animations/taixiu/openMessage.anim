@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "openMessage",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8181818181818181,
+  "sample": 55,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 150.178
+        },
+        {
+          "frame": 0.18181818181818182,
+          "value": 112
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.18181818181818182,
+          "value": 255
+        },
+        {
+          "frame": 1.4545454545454546,
+          "value": 239
+        },
+        {
+          "frame": 1.8181818181818181,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

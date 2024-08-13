@@ -1,0 +1,20 @@
+
+item_05_ani.png
+size: 246,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon05_bg
+  rotate: false
+  xy: 2, 2
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+icon05_nv
+  rotate: false
+  xy: 133, 8
+  size: 111, 123
+  orig: 111, 123
+  offset: 0, 0
+  index: -1

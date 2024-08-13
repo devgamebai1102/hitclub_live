@@ -1,0 +1,27 @@
+
+hoplacxingau.png
+size: 940,1097
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nap-Blur-01
+  rotate: false
+  xy: 2, 471
+  size: 467, 624
+  orig: 467, 624
+  offset: 0, 0
+  index: -1
+Nap-Blur-02
+  rotate: false
+  xy: 471, 471
+  size: 467, 624
+  orig: 467, 624
+  offset: 0, 0
+  index: -1
+NapHop
+  rotate: true
+  xy: 2, 2
+  size: 467, 624
+  orig: 467, 624
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+item1_p2.png
+size: 147,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item1_p2
+  rotate: false
+  xy: 0, 40
+  size: 147, 107
+  orig: 147, 107
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 0, 12
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1

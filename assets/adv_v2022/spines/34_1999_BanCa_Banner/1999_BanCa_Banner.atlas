@@ -1,0 +1,510 @@
+
+1999_BanCa_Banner.png
+size: 1946,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1262, 6
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+Body_Fish2
+  rotate: false
+  xy: 1071, 57
+  size: 189, 196
+  orig: 189, 196
+  offset: 0, 0
+  index: -1
+Body_Fish2_light
+  rotate: false
+  xy: 1138, 340
+  size: 189, 196
+  orig: 189, 196
+  offset: 0, 0
+  index: -1
+Bullet_Fish2
+  rotate: false
+  xy: 863, 162
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Fin_1
+  rotate: true
+  xy: 798, 50
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+Fin_2
+  rotate: false
+  xy: 864, 3
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Fin_3
+  rotate: false
+  xy: 873, 24
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Fin_4
+  rotate: false
+  xy: 863, 37
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Fin_5
+  rotate: true
+  xy: 880, 13
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Fx/10 (1)
+  rotate: false
+  xy: 975, 13
+  size: 94, 240
+  orig: 94, 240
+  offset: 0, 0
+  index: -1
+Fx/10 (2)
+  rotate: false
+  xy: 1262, 100
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1
+Fx/10 (3)
+  rotate: false
+  xy: 292, 71
+  size: 99, 114
+  orig: 99, 114
+  offset: 0, 0
+  index: -1
+Fx/10 (6)
+  rotate: false
+  xy: 1138, 258
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+Fx/548 (1)
+  rotate: false
+  xy: 1438, 8
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/548 (2)
+  rotate: true
+  xy: 1425, 298
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/548 (3)
+  rotate: true
+  xy: 1553, 298
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/548 (4)
+  rotate: true
+  xy: 1681, 298
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00000
+  rotate: true
+  xy: 293, 5
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00030
+  rotate: true
+  xy: 293, 5
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00002
+  rotate: true
+  xy: 524, 6
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00004
+  rotate: true
+  xy: 624, 189
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00006
+  rotate: true
+  xy: 761, 189
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00008
+  rotate: true
+  xy: 661, 8
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00010
+  rotate: true
+  xy: 1288, 274
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00012
+  rotate: false
+  xy: 1329, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00014
+  rotate: false
+  xy: 1395, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00016
+  rotate: false
+  xy: 1461, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00018
+  rotate: false
+  xy: 1527, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00020
+  rotate: false
+  xy: 1471, 161
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00022
+  rotate: false
+  xy: 1537, 161
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00024
+  rotate: false
+  xy: 1593, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00026
+  rotate: false
+  xy: 1659, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00028
+  rotate: false
+  xy: 1541, 24
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00032
+  rotate: false
+  xy: 1603, 161
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00034
+  rotate: false
+  xy: 1607, 24
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00036
+  rotate: false
+  xy: 1669, 161
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00038
+  rotate: false
+  xy: 1725, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00040
+  rotate: false
+  xy: 1791, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00042
+  rotate: true
+  xy: 1809, 335
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00044
+  rotate: false
+  xy: 1857, 401
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00046
+  rotate: true
+  xy: 1809, 269
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00048
+  rotate: false
+  xy: 1735, 161
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00050
+  rotate: true
+  xy: 1801, 203
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00052
+  rotate: true
+  xy: 1801, 137
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00054
+  rotate: false
+  xy: 1673, 24
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00056
+  rotate: true
+  xy: 1739, 71
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00058
+  rotate: true
+  xy: 1739, 5
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Gun2_Fish2
+  rotate: false
+  xy: 1215, 267
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Gun_Back_Fish2
+  rotate: true
+  xy: 1350, 11
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+Gun_Fish2
+  rotate: true
+  xy: 1384, 136
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+Hair_Fish2
+  rotate: true
+  xy: 260, 6
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+Hand_Fish2
+  rotate: true
+  xy: 430, 2
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+Hand_Fish2_light
+  rotate: true
+  xy: 477, 2
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+Hand_Gun_Fish2
+  rotate: true
+  xy: 863, 78
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Khung
+  rotate: true
+  xy: 898, 8
+  size: 245, 75
+  orig: 245, 75
+  offset: 0, 0
+  index: -1
+L_Eye
+  rotate: true
+  xy: 863, 50
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 835, 36
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Logo
+  rotate: false
+  xy: 393, 72
+  size: 233, 113
+  orig: 233, 113
+  offset: 0, 0
+  index: -1
+Logo_Light
+  rotate: false
+  xy: 628, 74
+  size: 233, 113
+  orig: 233, 113
+  offset: 0, 0
+  index: -1
+R_Eye
+  rotate: false
+  xy: 818, 7
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+R_Eyelid
+  rotate: false
+  xy: 841, 10
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 863, 140
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 798, 9
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Water1
+  rotate: true
+  xy: 624, 255
+  size: 281, 268
+  orig: 281, 268
+  offset: 0, 0
+  index: -1
+Water2
+  rotate: true
+  xy: 894, 255
+  size: 281, 148
+  orig: 281, 148
+  offset: 0, 0
+  index: -1
+Water3
+  rotate: true
+  xy: 1044, 255
+  size: 281, 92
+  orig: 281, 92
+  offset: 0, 0
+  index: -1
+Xiga2_Fish2
+  rotate: false
+  xy: 818, 33
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Xiga_Fish2
+  rotate: false
+  xy: 863, 122
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+img_BG
+  rotate: false
+  xy: 2, 66
+  size: 288, 470
+  orig: 288, 470
+  offset: 0, 0
+  index: -1
+img_light
+  rotate: false
+  xy: 1071, 20
+  size: 172, 35
+  orig: 172, 35
+  offset: 0, 0
+  index: -1
+img_light_yellow
+  rotate: false
+  xy: 292, 187
+  size: 330, 349
+  orig: 330, 349
+  offset: 0, 0
+  index: -1
+img_slot
+  rotate: false
+  xy: 2, 2
+  size: 256, 62
+  orig: 256, 62
+  offset: 0, 0
+  index: -1

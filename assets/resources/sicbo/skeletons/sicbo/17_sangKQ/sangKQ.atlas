@@ -1,0 +1,20 @@
+
+sangKQ.png
+size: 819,1966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light-03
+  rotate: false
+  xy: 2, 451
+  size: 815, 1513
+  orig: 815, 1513
+  offset: 0, 0
+  index: -1
+NapHop
+  rotate: true
+  xy: 2, 2
+  size: 447, 557
+  orig: 447, 557
+  offset: 0, 0
+  index: -1

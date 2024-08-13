@@ -1,0 +1,34 @@
+
+ICON.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123
+  rotate: false
+  xy: 1264, 306
+  size: 239, 110
+  orig: 239, 110
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 414, 644
+  orig: 414, 644
+  offset: 0, 0
+  index: -1
+FRAME
+  rotate: true
+  xy: 648, 158
+  size: 258, 614
+  orig: 258, 614
+  offset: 0, 0
+  index: -1
+THANTAI
+  rotate: false
+  xy: 648, 55
+  size: 269, 101
+  orig: 269, 101
+  offset: 0, 0
+  index: -1
